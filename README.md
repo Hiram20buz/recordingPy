@@ -1,6 +1,9 @@
 # recordingPy
 numpy opencv-python pyautogui
 
+Im using Python 3.11.3
+
+
 pip3 install numpy opencv-python pyautogui
 
 # How to solve this issue?
