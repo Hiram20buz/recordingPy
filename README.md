@@ -8,7 +8,7 @@ https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/
 pip3 install numpy opencv-python pyautogui
 
 
-### For som reason you can take ss in mac but using cv2 to create videos is not working
+### For some reason you can take ss in mac but using cv2 to create videos is not working
 
 # How to solve this issue?
 <img width="754" alt="Screen Shot 2023-08-27 at 9 34 44" src="https://github.com/Hiram20buz/recordingPy/assets/112133798/83c2a259-4c88-4cba-9eaa-2995c116614b">
