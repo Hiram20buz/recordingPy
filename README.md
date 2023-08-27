@@ -3,6 +3,7 @@ numpy opencv-python pyautogui
 
 Im using Python 3.11.3
 
+https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/
 
 pip3 install numpy opencv-python pyautogui
 
