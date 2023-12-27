@@ -1,3 +1,4 @@
+# Modify this code to save images to a folder and then create a video or gif.
 import mss
 import time
 from PIL import Image
