@@ -2,6 +2,7 @@ import cv2
 from PIL import ImageGrab
 import numpy as np
 
+
 # Capture the screen using PIL
 screenshot = ImageGrab.grab()
 
