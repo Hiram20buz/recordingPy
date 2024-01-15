@@ -2,6 +2,7 @@ import mss
 import imageio
 import os
 
+
 # Directory to store captured frames
 output_directory = 'captured_frames'
 if not os.path.exists(output_directory):
