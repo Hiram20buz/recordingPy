@@ -3,6 +3,7 @@ import time
 import imageio
 from moviepy.editor import ImageSequenceClip
 
+
 output_folder = 'screenshots'
 video_filename = 'output_video.mp4'
 fps = 10  # Adjust the frames per second as needed
